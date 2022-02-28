@@ -1,0 +1,36 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "charts_label": "",
+ "creation": "2022-02-28 12:47:02.564086",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends": "Selling",
+ "extends_another_page": 1,
+ "hide_custom": 1,
+ "icon": "sell",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Selling-2",
+ "links": [],
+ "modified": "2022-02-28 12:47:02.564086",
+ "modified_by": "Administrator",
+ "module": "Pre Sales",
+ "name": "Selling-2",
+ "onboarding": "Selling",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Pre Sales Order",
+   "link_to": "Pre Sales Order",
+   "type": "DocType"
+  }
+ ],
+ "shortcuts_label": "Quick Access"
+}
